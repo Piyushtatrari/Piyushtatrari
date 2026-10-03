@@ -18,4 +18,4 @@
 | [SkySketch](https://github.com/Piyushtatrari/SkySketch) | Draw in mid-air with hand tracking (OpenCV, MediaPipe) |
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/piyush-tatrari/) · piyushtatrari654@gmail.com · Gurugram, India · open to remote
+[Resume (PDF)](https://github.com/Piyushtatrari/piyush-portfolio-v3/blob/main/public/Piyush_Tatrari_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/piyush-tatrari/) · piyushtatrari654@gmail.com · Gurugram, India · open to remote
